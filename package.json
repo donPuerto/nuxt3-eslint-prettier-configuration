@@ -12,8 +12,10 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.22.15",
     "@nuxt/devtools": "latest",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.4",
     "@typescript-eslint/parser": "^6.7.4",
     "eslint": "^8.50.0",
     "eslint-plugin-vue": "^9.17.0",
